@@ -1,4 +1,5 @@
 Name: P.Tejaswani
+Course: Bsc Data Science
 Roll no: 34
 SUC: 2360530288
 Hall ticket no: 723127205164

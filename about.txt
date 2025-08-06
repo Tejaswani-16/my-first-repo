@@ -1,0 +1,3 @@
+Name: P.Tejaswani
+Course: Bsc Data Science
+One thing I learned at GitHub: I learned how to upload my projects and files in Github
